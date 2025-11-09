@@ -47,29 +47,6 @@ Interactive temperature trend dashboard for real-time observation.
 
 🌡️ **Precision Analysis**  
 Monitors micro-level temperature fluctuations with accurate timestamps.
----
-
-## 🔁 **Data Intelligence Flow**
-
-Below is a visual breakdown of how data flows through the system —  
-formatted using Markdown’s **code block diagram style** for clarity and alignment 👇
-
-[ 🌍 User City Input ]
-│
-▼
-[ 🧭 Open-Meteo Geocoding API ]
-│
-▼
-[ ☁️ Live Weather Data (Temp, Humidity, Wind) ]
-│
-▼
-[ 💾 Data Logging → CSV + JSON Storage ]
-│
-▼
-[ 📊 Real-Time Matplotlib Dashboard ]
-│
-▼
-[ 📈 Statistical Summary & Analytics Insights ]
 
 
 ---
@@ -134,6 +111,7 @@ It showcases how live data streams can be processed, visualized, and analyzed
 ---
 
 ### ⭐ _“Turning live weather data into actionable analytics — one frame at a time.”_ 🌍
+
 
 
 
