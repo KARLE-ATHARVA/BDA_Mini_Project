@@ -103,13 +103,13 @@ It showcases how live data streams can be processed, visualized, and analyzed
 
 ## 👨‍💻 **Developer**
 
-**Atharva Karle**  
-_Data Science & AI Enthusiast | Big Data Analytics Developer_  
-
-📫 **Connect:** [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/your-username)
+**Ishaan Koli** : **Connect:** [LinkedIn](https://www.linkedin.com/in/ishaan-koli-694085308/) • [GitHub](https://github.com/your-username)
+**Sagar Kallimani** : **Connect:** [LinkedIn](https://www.linkedin.com/in/sagar-kallimani-b211b5320/) • [GitHub](https://github.com/your-username)
+**Atharva Karle** : **Connect:** [LinkedIn](https://www.linkedin.com/in/atharva-karle-7a31a3345/) • [GitHub](https://github.com/KARLE-ATHARVA)
 
 ---
 
 ### ⭐ _“Turning live weather data into actionable analytics — one frame at a time.”_ 🌍
+
 
 
