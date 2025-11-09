@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp": "2025-11-09 19:08:31",
+        "city": "Mumbai",
+        "temperature": 27.2,
+        "humidity": 67,
+        "windspeed": 9.8
+    },
+    {
+        "timestamp": "2025-11-09 19:09:02",
+        "city": "Mumbai",
+        "temperature": 27.2,
+        "humidity": 67,
+        "windspeed": 9.8
+    },
+    {
+        "timestamp": "2025-11-09 19:09:33",
+        "city": "Mumbai",
+        "temperature": 27.2,
+        "humidity": 67,
+        "windspeed": 9.8
+    }
+]
