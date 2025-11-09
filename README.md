@@ -1,4 +1,4 @@
-# 🌦️ Real-Time Weather Tracker 4.2  
+# 🌦️ Real-Time Weather Tracker 
 ### _Big Data Analytics Mini Project | Live Dashboard Mode_
 
 > 🚀 Developed by **Atharva Karle**  
@@ -111,3 +111,4 @@ _Data Science & AI Enthusiast | Big Data Analytics Developer_
 ---
 
 ### ⭐ _“Turning live weather data into actionable analytics — one frame at a time.”_ 🌍
+
