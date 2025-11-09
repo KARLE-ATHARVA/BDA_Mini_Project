@@ -1,7 +1,6 @@
 # 🌦️ Real-Time Weather Tracker 
 ### _Big Data Analytics Mini Project | Live Dashboard Mode_
-
-> 🚀 Developed by **Atharva Karle**  
+ 
 > An interactive, data-driven weather monitoring system that visualizes real-time climate conditions with analytical precision and Big Data insights.
 
 ---
@@ -116,6 +115,7 @@ It showcases how live data streams can be processed, visualized, and analyzed
 ---
 
 ### ⭐ _“Turning live weather data into actionable analytics — one frame at a time.”_ 🌍
+
 
 
 
