@@ -8,7 +8,7 @@
 
 ## 🧭 **Project Overview**
 
-**Real-Time Weather Tracker 4.2** is an advanced **Big Data Analytics** project designed to demonstrate the power of continuous data streaming and visualization.  
+**Real-Time Weather Tracker** is an advanced **Big Data Analytics** project designed to demonstrate the power of continuous data streaming and visualization.  
 It collects live weather parameters — **Temperature**, **Humidity**, and **Wind Speed** — using the **Open-Meteo API**, logs them periodically, and generates a **real-time visual dashboard** for monitoring and analytics.
 
 The system blends **real-time data engineering** with **statistical interpretation**, making it a perfect showcase of modern data analytics pipelines in action.
@@ -111,4 +111,5 @@ _Data Science & AI Enthusiast | Big Data Analytics Developer_
 ---
 
 ### ⭐ _“Turning live weather data into actionable analytics — one frame at a time.”_ 🌍
+
 
